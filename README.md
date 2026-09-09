@@ -1,6 +1,6 @@
 <div align="center">
 
-# مديري · Mudiri
+# مويدير · Moydeer
 
 ### متجر إلكتروني متكامل — ويب · أدمن · تطبيق · موديولات  
 ### Full Online Store — Web · Admin · Mobile App · Modules
@@ -58,7 +58,7 @@
 <a href="https://mixy-mart.com/feeds/google-merchant.xml"><code>/feeds/google-merchant.xml</code></a>
 </td>
 <td align="center" width="25%">
-<strong>🌐 موديري ديجي</strong><br>
+<strong>🌐 Mudiri Digi Store</strong><br>
 <a href="https://mudiridigi.com"><code>mudiridigi.com</code></a>
 </td>
 <td align="center" width="25%">
@@ -72,7 +72,7 @@
 </tr>
 </table>
 
-> **مويدير** منتج تبيعه [موديري ديجي](https://mudiridigi.com) للعملاء — كل عميل يحصل على متجره بهويته ودومينه.  
+> **مويدير** منتج تبيعه [موديري ديجي · Mudiri Digi Store](https://mudiridigi.com) للعملاء — كل عميل يحصل على متجره بهويته ودومينه.  
 > **Mixy Mart** و**LinkGo** من عملاء منشّرين — ليسوا اسم المنتج.
 
 ---
@@ -83,11 +83,11 @@
 
 ### نظرة عامة
 
-**مويدير (Moydeer)** منتج متجر إلكتروني كامل تبيعه **موديري ديجي** للتجار والشركات: واجهة متجر · لوحة تحكم · تطبيق موبايل · عشرات الموديولات القابلة للتفعيل · 9+ ثيمات جاهزة — جاهز للإطلاق على **Hostinger** أو **VPS**.
+**مويدير (Moydeer)** منتج متجر إلكتروني كامل تبيعه **موديري ديجي · Mudiri Digi Store** للتجار والشركات: واجهة متجر · لوحة تحكم · تطبيق موبايل · عشرات الموديولات القابلة للتفعيل · 9+ ثيمات جاهزة — جاهز للإطلاق على **Hostinger** أو **VPS**.
 
 <table>
 <tr><td>🎯 <strong>المنتج</strong></td><td>مويدير — Online Store Platform</td></tr>
-<tr><td>🏢 <strong>المطوّر</strong></td><td><a href="https://mudiridigi.com">موديري ديجي · Mudiri Digi</a></td></tr>
+<tr><td>🏢 <strong>المطوّر</strong></td><td><a href="https://mudiridigi.com">موديري ديجي · Mudiri Digi Store</a></td></tr>
 <tr><td>🛒 <strong>عميل منشور</strong></td><td><a href="https://mixy-mart.com">Mixy Mart · mixy-mart.com</a></td></tr>
 <tr><td>🌍 <strong>السوق</strong></td><td>مصر · EGP · عربي + إنجليزي (RTL/LTR)</td></tr>
 <tr><td>📦 <strong>المكوّنات</strong></td><td>Web · Admin · Flutter App · 40+ Module flags</td></tr>
@@ -273,11 +273,11 @@ MODULE_AUTH_GOOGLE · MODULE_AUTH_FACEBOOK · MODULE_PERMISSIONS · …
 
 ### Overview
 
-**Moydeer (مويدير)** is a complete online store product sold by **Mudiri Digi** to merchants and businesses: storefront · admin panel · mobile app · dozens of toggleable modules · 9+ ready themes — deployable on **Hostinger** or **VPS**.
+**Moydeer (مويدير)** is a complete online store product sold by **Mudiri Digi Store** to merchants and businesses: storefront · admin panel · mobile app · dozens of toggleable modules · 9+ ready themes — deployable on **Hostinger** or **VPS**.
 
 <table>
 <tr><td>🎯 <strong>Product</strong></td><td>Moydeer — Online Store Platform</td></tr>
-<tr><td>🏢 <strong>Developer</strong></td><td><a href="https://mudiridigi.com">Mudiri Digi · موديري ديجي</a></td></tr>
+<tr><td>🏢 <strong>Developer</strong></td><td><a href="https://mudiridigi.com">Mudiri Digi Store · موديري ديجي</a></td></tr>
 <tr><td>🛒 <strong>Live client</strong></td><td><a href="https://mixy-mart.com">Mixy Mart · mixy-mart.com</a></td></tr>
 <tr><td>🌍 <strong>Market</strong></td><td>Egypt · EGP · Arabic + English (RTL/LTR)</td></tr>
 <tr><td>📦 <strong>Surfaces</strong></td><td>Web · Admin · Flutter App · 40+ module flags</td></tr>
@@ -463,7 +463,7 @@ Visitor → Cart → Checkout → EasyKash / COD
 
 <br>
 
-### [موديري ديجي · Mudiri Digi](https://mudiridigi.com)
+### [موديري ديجي · Mudiri Digi Store](https://mudiridigi.com)
 
 *نظام واضح لمتجرك أو عيادتك أو موقع شركتك — بدون فوضى ملفات*  
 *Clear systems for your store, clinic, or company website*
@@ -515,6 +515,6 @@ Visitor → Cart → Checkout → EasyKash / COD
 
 **مويدير · Moydeer** — Online Store Product · Web · Admin · Mobile · Modules
 
-*© Mudiri Digi · All rights reserved*
+*© Mudiri Digi Store · All rights reserved*
 
 </div>
