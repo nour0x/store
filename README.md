@@ -1,23 +1,23 @@
 <div align="center">
 
-# مويدير · LinkGo — Idevin SaaS
+# مويدير · Moydeer
 
-### منصة متاجر إلكترونية معيارية + لوحة SaaS متعددة المستأجرين  
-### Modular E-Commerce Engine + Multi-Tenant SaaS Platform
+### متجر إلكتروني متكامل — ويب · أدمن · تطبيق · موديولات  
+### Full Online Store — Web · Admin · Mobile App · Modules
 
 <br>
 
-[![Live Example](https://img.shields.io/badge/🛒_مثال_إنتاج-mixy--mart.com-2563EB?style=for-the-badge&logo=shopify&logoColor=white)](https://mixy-mart.com)
-[![Platform Panel](https://img.shields.io/badge/⚙️_Idevin-/idevin-7C3AED?style=for-the-badge&logo=laravel&logoColor=white)](https://mixy-mart.com/idevin)
-[![Admin](https://img.shields.io/badge/🛡️_Admin-/admin-1E293B?style=for-the-badge)](https://mixy-mart.com/admin)
+[![Live Client](https://img.shields.io/badge/🛒_عميل_من_الإنتاج-Mixy_Mart-2563EB?style=for-the-badge&logo=shopify&logoColor=white)](https://mixy-mart.com)
+[![Admin](https://img.shields.io/badge/🛡️_لوحة_التحكم-/admin-1E293B?style=for-the-badge)](https://mixy-mart.com/admin)
 [![API](https://img.shields.io/badge/📡_API-/api/v1-64748B?style=for-the-badge)](https://mixy-mart.com/api/v1/products)
+[![Developer](https://img.shields.io/badge/🏢_موديري_ديجي-mudiridigi.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mudiridigi.com)
 
 <br>
 
 [![Laravel](https://img.shields.io/badge/Laravel-12-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://laravel.com)
+[![Flutter](https://img.shields.io/badge/Flutter-Mobile_App-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
 [![Livewire](https://img.shields.io/badge/Livewire-4-FB70A9?style=flat-square)](https://livewire.laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=flat-square&logo=php&logoColor=white)](https://php.net)
-[![Modules](https://img.shields.io/badge/Modules-15-22C55E?style=flat-square)](https://mixy-mart.com)
 
 <br><br>
 
@@ -31,32 +31,28 @@
 
 <a id="links"></a>
 
-## 🔗 روابط المشروع · Project Links
+## 🔗 روابط · Links
 
 <table align="center">
 <tr>
 <td align="center" width="25%">
-<strong>🛒 متجر إنتاج</strong><br>
+<strong>🛒 عميل — Mixy Mart</strong><br>
 <a href="https://mixy-mart.com"><code>mixy-mart.com</code></a>
 </td>
 <td align="center" width="25%">
-<strong>🛡️ لوحة المتجر</strong><br>
+<strong>🛡️ لوحة التحكم</strong><br>
 <a href="https://mixy-mart.com/admin"><code>/admin</code></a>
-</td>
-<td align="center" width="25%">
-<strong>⚙️ Idevin Platform</strong><br>
-<a href="https://mixy-mart.com/idevin"><code>/idevin</code></a>
 </td>
 <td align="center" width="25%">
 <strong>📡 REST API</strong><br>
 <a href="https://mixy-mart.com/api/v1/products"><code>/api/v1</code></a>
 </td>
-</tr>
-<tr>
 <td align="center" width="25%">
 <strong>🗺️ Sitemap</strong><br>
 <a href="https://mixy-mart.com/sitemap.xml"><code>/sitemap.xml</code></a>
 </td>
+</tr>
+<tr>
 <td align="center" width="25%">
 <strong>🛍️ Google Merchant</strong><br>
 <a href="https://mixy-mart.com/feeds/google-merchant.xml"><code>/feeds/google-merchant.xml</code></a>
@@ -69,8 +65,15 @@
 <strong>🛒 المتجر الرقمي</strong><br>
 <a href="https://mudiridigi.shop"><code>mudiridigi.shop</code></a>
 </td>
+<td align="center" width="25%">
+<strong>📧 التواصل</strong><br>
+<a href="mailto:dev.nour.m@gmail.com"><code>dev.nour.m@gmail.com</code></a>
+</td>
 </tr>
 </table>
+
+> **مويدير** منتج تبيعه [موديري ديجي](https://mudiridigi.com) للعملاء — كل عميل يحصل على متجره بهويته ودومينه.  
+> **Mixy Mart** و**LinkGo** من عملاء منشّرين — ليسوا اسم المنتج.
 
 ---
 
@@ -80,169 +83,153 @@
 
 ### نظرة عامة
 
-**مويدير (Moydeer) / LinkGo** محرك متجر إلكتروني Laravel 12 معياري لمصر (EGP · عربي + إنجليزي)، مبني للعمل على **Hostinger Shared Hosting** و**VPS**. فوقه **Idevin Platform** — لوحة SaaS على `/idevin` لإنشاء وإدارة **متاجر متعددة** بقاعدة بيانات منفصلة لكل متجر.
+**مويدير (Moydeer)** منتج متجر إلكتروني كامل تبيعه **موديري ديجي** للتجار والشركات: واجهة متجر · لوحة تحكم · تطبيق موبايل · عشرات الموديولات القابلة للتفعيل · 9+ ثيمات جاهزة — جاهز للإطلاق على **Hostinger** أو **VPS**.
 
 <table>
-<tr><td>🎯 <strong>النوع</strong></td><td>White-label E-Commerce + Multi-Tenant SaaS</td></tr>
-<tr><td>🛒 <strong>مثال إنتاج</strong></td><td><a href="https://mixy-mart.com">mixy-mart.com</a></td></tr>
-<tr><td>⚙️ <strong>المنصة</strong></td><td>Idevin · <code>/idevin</code></td></tr>
-<tr><td>🌍 <strong>السوق</strong></td><td>مصر · EGP · AR + EN (RTL/LTR)</td></tr>
-<tr><td>📦 <strong>Modules</strong></td><td>15 وحدة · 9+ Theme Packs</td></tr>
-<tr><td>✅ <strong>الحالة</strong></td><td>Production · Platform Waves مكتملة</td></tr>
+<tr><td>🎯 <strong>المنتج</strong></td><td>مويدير — Online Store Platform</td></tr>
+<tr><td>🏢 <strong>المطوّر</strong></td><td><a href="https://mudiridigi.com">موديري ديجي · Mudiri Digi</a></td></tr>
+<tr><td>🛒 <strong>عميل منشور</strong></td><td><a href="https://mixy-mart.com">Mixy Mart · mixy-mart.com</a></td></tr>
+<tr><td>🌍 <strong>السوق</strong></td><td>مصر · EGP · عربي + إنجليزي (RTL/LTR)</td></tr>
+<tr><td>📦 <strong>المكوّنات</strong></td><td>Web · Admin · Flutter App · 40+ Module flags</td></tr>
+<tr><td>✅ <strong>الحالة</strong></td><td>Production · يُسلّم للعملاء جاهزاً</td></tr>
 </table>
 
 ---
 
 ### التحدي
 
-التجار والوكالات يحتاجون:
-- متجر إلكتروني جاهز للإطلاق بسرعة — بدون بناء من الصفر
-- دعم عربي/إنجليزي حقيقي (RTL · i18n audit)
-- دفع محلي (EasyKash · COD) + شحن بالمحافظات
-- SEO · Pixels · Google Merchant من اليوم الأول
-- منصة SaaS لإدارة عشرات المتاجر — DB معزولة · دومينات · باقات · إضافات
+التاجر أو الشركة يحتاج متجراً احترافياً بدون:
+- بناء من الصفر كل مرة
+- فوضى ملفات وإضافات متضاربة
+- واجهة عربية ضعيفة أو بدون تطبيق
+- غياب SEO · Pixels · Google Merchant · دفع محلي
 
-**الهدف:** محرك متجر واحد + لوحة منصة — نفس الكود، متاجر مستقلة.
+**الحل:** منتج واحد — **مويدير** — يُخصّص لكل عميل (اسم · دومين · ألوان · شعار · تطبيق) ويُسلّم جاهزاً.
 
 ---
 
-### الحل — طبقتان
+### ماذا يحصل العميل؟
 
 ```mermaid
-flowchart TB
-    Idevin["Idevin Platform /idevin<br/>Tenants · Packages · Domains · Billing"]
-    Idevin --> T1["Store 1<br/>mixy-mart.com"]
-    Idevin --> T2["Store 2<br/>slug.domain.com"]
-    Idevin --> T3["Store N<br/>custom domain"]
-    Engine["LinkGo / Moydeer Engine<br/>15 Modules · 9 Themes"]
-    T1 --> Engine
-    T2 --> Engine
-    T3 --> Engine
-    Engine --> Web["Storefront Web"]
-    Engine --> Admin["/admin"]
-    Engine --> API["/api/v1"]
-    Engine --> Mobile["Mobile API Foundation"]
+flowchart LR
+    Product["مويدير<br/>المنتج"]
+    Product --> Web["🌐 متجر ويب<br/>ثيمات · SEO · سلة"]
+    Product --> Admin["🛡️ لوحة تحكم<br/>منتجات · طلبات · إعدادات"]
+    Product --> App["📱 تطبيق Flutter<br/>Android · iOS"]
+    Product --> Mods["📦 موديولات<br/>تفعيل/إيقاف حسب الحاجة"]
+    Client["👤 العميل<br/>Mixy Mart · LinkGo · …"]
+    Web --> Client
+    Admin --> Client
+    App --> Client
 ```
 
-| الطبقة | المسار | الدور |
+| السطح | المسار | ماذا يفعل |
 |:--|:--|:--|
-| **Idevin** | `/idevin` | لوحة المنصة — متاجر · باقات · دومينات · Cloudflare · RBAC |
-| **Store Engine** | `Modules/Store` + … | محرك المتجر — كتالوج · سلة · checkout · أدمن |
-| **Tenant Runtime** | `IdentifyTenant` | DB منفصلة لكل متجر · entitlements · ModuleGate |
-| **API** | `/api/v1` | منتجات · auth · checkout · mobile bootstrap |
+| **Storefront** | `/` | متجر عام · كتالوج · سلة · checkout |
+| **Admin** | `/admin` | إدارة كاملة — منتجات · طلبات · موبايل · SEO |
+| **Mobile App** | Flutter | نفس الكتالوج · auth · checkout · FCM |
+| **API** | `/api/v1` | REST · Sanctum · bootstrap للتطبيق |
 
 ---
 
-### Idevin Platform
+### عملاء منشّرون (أمثلة)
 
-| الميزة | التفاصيل |
-|:--|:--|
-| **Multi-Tenant** | كود واحد · DB منفصلة (SQLite محلي / MySQL إنتاج) |
-| **Domains** | `{slug}.root` · `slug.localhost` · دومين مخصص + تحقق DNS |
-| **Cloudflare** | إدارة DNS من اللوحة · Zone ID · API Token |
-| **Packages** | باقات · entitlements · ModuleGate |
-| **Addon Marketplace** | `/admin/marketplace` — تفعيل مجاني / شراء مدفوع |
-| **Billing** | EasyKash (أساسي) · Paymob (اختياري) |
-| **Central API** | `/api/platform/v1/*` للمتاجر البعيدة |
-| **RBAC** | owner · admin · support + صفحة فريق |
-| **Fork** | خفيف (stub) · ثقيل (queue) لنسخ متجر |
-| **Mobile Build** | Job + dry-run من اللوحة (Flutter مؤجّل) |
-| **Production Check** | `php artisan idevin:check-production` |
+| العميل | الدومين | ملاحظة |
+|:--|:--|:--|
+| **Mixy Mart** | [mixy-mart.com](https://mixy-mart.com) | متجر إنتاج حي |
+| **LinkGo** | — | عميل سابق — الاسم legacy في الكود فقط |
+
+> كل عميل: `APP_NAME` · دومين · شعار · ألوان · bundle التطبيق — منفصل عن **مويدير** كمنتج.
 
 ---
 
-### 15 Laravel Module
+### الموديولات — تفعيل حسب الحاجة
 
-| Module | الوظيفة |
-|:--|:--|
-| **Core** | إعدادات · CRUD · CommerceSettings · ThemeStore |
-| **Store** | Storefront · كتالوج · brands · banners |
-| **Orders** | دورة الطلب · 11 حالة · OrderStatusLog |
-| **Payments** | EasyKash (HMAC) · COD |
-| **Coupons · Offers** | كوبونات · عروض |
-| **Blog · Seo** | مدونة · sitemap · Schema |
-| **Pixels · Social** | Meta · TikTok · social links |
-| **GoogleMerchant** | XML feed |
-| **Chatbot** | مساعد المتجر |
-| **Api** | REST `/api/v1` · Sanctum |
-| **Permissions** | Spatie RBAC |
-| **Platform** | Idevin SaaS layer |
+```env
+MODULE_STORE · MODULE_ORDERS · MODULE_PAYMENTS · MODULE_EASYKASH
+MODULE_SHIPPING · MODULE_COUPONS · MODULE_BUNDLES · MODULE_REVIEWS
+MODULE_BLOG · MODULE_SEO · MODULE_PIXELS · MODULE_GOOGLE_MERCHANT
+MODULE_CHATBOT · MODULE_API · MODULE_MOBILE · MODULE_WISHLIST
+MODULE_INVENTORY · MODULE_PROFIT · MODULE_COUNTRIES · MODULE_CURRENCIES
+MODULE_AUTH_GOOGLE · MODULE_AUTH_FACEBOOK · MODULE_PERMISSIONS · …
+```
+
+عند تعطيل موديول → مساراته وقوائمه تختفي **بدون أخطاء**.
+
+<details open>
+<summary><strong>🛒 متجر وكتالوج</strong></summary>
+
+- منتجات · فئات · brands · materials · attribute templates
+- سلة · wishlist · upsell · downsell · bundles
+- تقييمات · quick add · import
+- مخزون · cost · profit tracking
+- دول · عملات · multi-country (اختياري)
+
+</details>
+
+<details open>
+<summary><strong>💳 طلبات ودفع</strong></summary>
+
+- 11 حالة طلب · OrderStatusLog
+- EasyKash (HMAC webhook) · الدفع عند الاستلام (COD)
+- شحن بالمحافظات (flat rate)
+- كوبونات · abandoned checkout
+- انتهاء الطلبات غير المدفوعة (TTL)
+
+</details>
+
+<details open>
+<summary><strong>📱 تطبيق الموبايل</strong></summary>
+
+- Flutter — Android · iOS
+- Bootstrap من `/api/v1/app/bootstrap`
+- Google · Facebook Login · Sanctum
+- Remote config من `/admin/mobile` (شعار · splash · intro · popups)
+- FCM push · deep link `mudiridigi://pay`
+- بناء APK/AAB لكل عميل بـ bundle ID خاص
+
+</details>
+
+<details open>
+<summary><strong>📈 نمو وSEO</strong></summary>
+
+- SEO · sitemap · Schema
+- Pixels: Meta · TikTok · Snap · GA · GTM · GSC
+- Google Merchant XML feed
+- Chatbot (+ AI اختياري)
+- Social links · blog · analytics
+
+</details>
 
 ---
 
 ### 9+ Theme Packs
 
-ثيمات جاهزة حسب النيتش — structure + CSS + surfaces:
+ثيمات جاهزة حسب نوع المتجر — structure + CSS + surfaces:
 
-| Theme | النيتش | المفتاح |
-|:--|:--|:--|
-| **Nile** | كلاسيك | `nile-atelier` |
-| **Bazaar** | ماركت | `bazaar` |
-| **Pulse** | نبض — image-forward | `pulse` |
-| **Aura** | أورا — polish + drawer | `aura` |
-| **Loom** | نسيج — fashion | `loom` |
-| **Gleam** | لمعان — jewelry | `gleam` |
-| **Bloom** | إشراق — beauty | `bloom` |
-| **Pantry** | مؤونة — grocery | `pantry` |
-| **Forge** | مصهر — electronics | `forge` |
+| Theme | النيتش |
+|:--|:--|
+| **Nile** | كلاسيك |
+| **Bazaar** | ماركت |
+| **Pulse** | نبض — image-forward |
+| **Aura** | أورا — polish + drawer |
+| **Loom** | نسيج — fashion |
+| **Gleam** | لمعان — jewelry |
+| **Bloom** | إشراق — beauty |
+| **Pantry** | مؤونة — grocery |
+| **Forge** | مصهر — electronics |
 
-> ألوان من ThemeStore (`--brand`, `--accent`) · نصوص من `__('store.*')`
-
----
-
-### الميزات الرئيسية
-
-<details open>
-<summary><strong>🛒 للتاجر</strong></summary>
-
-- متجر ثنائي اللغة (عربي RTL · English LTR)
-- كتالوج · brands · categories · variants · reviews
-- سلة · wishlist · checkout · 11 حالة طلب
-- EasyKash + الدفع عند الاستلام (COD)
-- شحن بالمحافظات (flat rate)
-- SEO · sitemap · Google Merchant Feed
-- Pixels (Meta · TikTok) · Chatbot
-- كوبونات · عروض · مدونة
-
-</details>
-
-<details open>
-<summary><strong>⚙️ للمنصة (Idevin)</strong></summary>
-
-- إنشاء متاجر متعددة · DB معزولة
-- باقات · addon marketplace · entitlements
-- دومينات فرعية + مخصصة · Cloudflare DNS
-- فوترة المنصة (EasyKash · Paymob)
-- Central API للمتاجر البعيدة
-- RBAC · audit log · صيانة · local_mode
-- `idevin:demo-local --fresh` (3 متاجر QA)
-
-</details>
-
-<details open>
-<summary><strong>🛡️ للمطور</strong></summary>
-
-- Modular: `MODULE_*=true/false` — تعطيل بدون أخطاء
-- i18n audit: `php artisan i18n:audit --fail-on-warning`
-- Hostinger-ready: `public_html/` document root
-- VPS deploy: Nginx · Supervisor · schedule
-- Integration docs: Bosta · EasyKash · عقود PHP
-- Tests: `IdevinPlatformTest` · EasyKash · Products
-
-</details>
+> ألوان من ThemeStore · نصوص من `__('store.*')` — i18n audit إلزامي
 
 ---
 
 ### دورة الطلب
 
 ```
-Cart → Checkout → Payment (EasyKash / COD)
-     → OrderStatus (11 codes) → OrderStatusLog
-     → Shipping (governorate flat rate)
-     → Delivered
+زائر → سلة → Checkout → EasyKash / COD
+     → OrderStatus (11) → شحن محافظة → تسليم
+     → OrderStatusLog (system · admin · customer)
 ```
-
-> تكامل Bosta CourierAdapter — موثّق · مرحلة تالية
 
 ---
 
@@ -250,26 +237,25 @@ Cart → Checkout → Payment (EasyKash / COD)
 
 | المقياس | القيمة |
 |:--|--:|
-| Laravel Modules | 15 |
+| Laravel Modules (packages) | 15 |
+| Module flags (`.env`) | 40+ |
 | Theme Packs | 9+ |
-| Database migrations | 37+ |
 | Order statuses | 11 |
-| Supported locales | 2 (ar · en) |
-| Payment gateways | EasyKash · COD |
-| Platform tests | Idevin* suite |
+| Locales | ar · en |
+| Payment | EasyKash · COD |
+| Deploy targets | Hostinger · VPS |
 
 ---
 
 ### Technology Stack
 
-| Backend | Platform | DevOps |
+| Backend | Mobile | Ops |
 |:--|:--|:--|
-| Laravel 12 · PHP 8.3 | Idevin multi-tenant | Hostinger · VPS |
-| Livewire 4 | Cloudflare DNS API | `public_html/` deploy |
-| nwidart/laravel-modules | Separate DB/tenant | Nginx · Supervisor |
-| Sanctum · Spatie Permissions | EasyKash · Paymob | Queue workers |
-| EasyKash HMAC · COD | Central Platform API | `idevin:check-production` |
-| Vite · Tailwind | Addon marketplace | i18n CI audit |
+| Laravel 12 · PHP 8.3 | Flutter · Sanctum | Hostinger `public_html/` |
+| Livewire 4 | Google · Facebook Auth | VPS · Nginx · Supervisor |
+| nwidart/laravel-modules | FCM · App Links | Queue · Cron |
+| Spatie Permissions | Remote config | `i18n:audit` CI |
+| EasyKash HMAC · Vite | APK/AAB per client | Cloudflare |
 
 ---
 
@@ -287,93 +273,123 @@ Cart → Checkout → Payment (EasyKash / COD)
 
 ### Overview
 
-**Moydeer (مويدير) / LinkGo** is a modular Laravel 12 e-commerce engine for Egypt (EGP · Arabic + English), built for **Hostinger Shared Hosting** and **VPS**. On top sits **Idevin Platform** — a SaaS control panel at `/idevin` to create and manage **multiple stores** with an isolated database per tenant.
+**Moydeer (مويدير)** is a complete online store product sold by **Mudiri Digi** to merchants and businesses: storefront · admin panel · mobile app · dozens of toggleable modules · 9+ ready themes — deployable on **Hostinger** or **VPS**.
 
 <table>
-<tr><td>🎯 <strong>Type</strong></td><td>White-label E-Commerce + Multi-Tenant SaaS</td></tr>
-<tr><td>🛒 <strong>Production example</strong></td><td><a href="https://mixy-mart.com">mixy-mart.com</a></td></tr>
-<tr><td>⚙️ <strong>Platform</strong></td><td>Idevin · <code>/idevin</code></td></tr>
-<tr><td>🌍 <strong>Market</strong></td><td>Egypt · EGP · AR + EN (RTL/LTR)</td></tr>
-<tr><td>📦 <strong>Modules</strong></td><td>15 modules · 9+ theme packs</td></tr>
-<tr><td>✅ <strong>Status</strong></td><td>Production · Platform waves complete</td></tr>
+<tr><td>🎯 <strong>Product</strong></td><td>Moydeer — Online Store Platform</td></tr>
+<tr><td>🏢 <strong>Developer</strong></td><td><a href="https://mudiridigi.com">Mudiri Digi · موديري ديجي</a></td></tr>
+<tr><td>🛒 <strong>Live client</strong></td><td><a href="https://mixy-mart.com">Mixy Mart · mixy-mart.com</a></td></tr>
+<tr><td>🌍 <strong>Market</strong></td><td>Egypt · EGP · Arabic + English (RTL/LTR)</td></tr>
+<tr><td>📦 <strong>Surfaces</strong></td><td>Web · Admin · Flutter App · 40+ module flags</td></tr>
+<tr><td>✅ <strong>Status</strong></td><td>Production · delivered ready to clients</td></tr>
 </table>
 
 ---
 
 ### The Challenge
 
-Merchants and agencies need:
-- A store ready to launch fast — without building from scratch
-- Real bilingual support (RTL · i18n audit)
-- Local payments (EasyKash · COD) + governorate-based shipping
-- SEO · Pixels · Google Merchant from day one
-- A SaaS platform to manage dozens of stores — isolated DB · domains · packages · addons
+A merchant or company needs a professional store without:
+- Building from scratch every time
+- Plugin chaos and conflicting add-ons
+- Weak Arabic UX or no mobile app
+- Missing SEO · Pixels · Google Merchant · local payments
 
-**Goal:** One store engine + one platform panel — same codebase, independent stores.
+**Solution:** One product — **Moydeer** — customized per client (name · domain · colors · logo · app) and delivered ready to launch.
 
 ---
 
-### The Solution — Two Layers
+### What the Client Gets
 
 ```mermaid
-flowchart TB
-    Idevin["Idevin Platform /idevin<br/>Tenants · Packages · Domains · Billing"]
-    Idevin --> T1["Store 1<br/>mixy-mart.com"]
-    Idevin --> T2["Store 2<br/>slug.domain.com"]
-    Idevin --> T3["Store N<br/>custom domain"]
-    Engine["LinkGo / Moydeer Engine<br/>15 Modules · 9 Themes"]
-    T1 --> Engine
-    T2 --> Engine
-    T3 --> Engine
-    Engine --> Web["Storefront Web"]
-    Engine --> Admin["/admin"]
-    Engine --> API["/api/v1"]
-    Engine --> Mobile["Mobile API Foundation"]
+flowchart LR
+    Product["Moydeer<br/>Product"]
+    Product --> Web["🌐 Web Store<br/>Themes · SEO · Cart"]
+    Product --> Admin["🛡️ Admin Panel<br/>Products · Orders · Settings"]
+    Product --> App["📱 Flutter App<br/>Android · iOS"]
+    Product --> Mods["📦 Modules<br/>Enable/disable as needed"]
+    Client["👤 Client<br/>Mixy Mart · LinkGo · …"]
+    Web --> Client
+    Admin --> Client
+    App --> Client
 ```
 
-| Layer | Path | Role |
+| Surface | Path | Purpose |
 |:--|:--|:--|
-| **Idevin** | `/idevin` | Platform panel — stores · packages · domains · Cloudflare · RBAC |
-| **Store Engine** | `Modules/Store` + … | Store engine — catalog · cart · checkout · admin |
-| **Tenant Runtime** | `IdentifyTenant` | Separate DB per store · entitlements · ModuleGate |
-| **API** | `/api/v1` | Products · auth · checkout · mobile bootstrap |
+| **Storefront** | `/` | Public store · catalog · cart · checkout |
+| **Admin** | `/admin` | Full management — products · orders · mobile · SEO |
+| **Mobile App** | Flutter | Same catalog · auth · checkout · FCM |
+| **API** | `/api/v1` | REST · Sanctum · app bootstrap |
 
 ---
 
-### Idevin Platform
+### Published Clients (Examples)
 
-| Feature | Detail |
-|:--|:--|
-| **Multi-Tenant** | One codebase · separate DB (SQLite local / MySQL prod) |
-| **Domains** | `{slug}.root` · `slug.localhost` · custom domain + DNS verify |
-| **Cloudflare** | DNS management from panel · Zone ID · API Token |
-| **Packages** | Plans · entitlements · ModuleGate |
-| **Addon Marketplace** | `/admin/marketplace` — free enable / paid purchase |
-| **Billing** | EasyKash (primary) · Paymob (optional) |
-| **Central API** | `/api/platform/v1/*` for remote stores |
-| **RBAC** | owner · admin · support + team page |
-| **Fork** | light (stub) · heavy (queue) store copy |
-| **Mobile Build** | Job + dry-run from panel (Flutter deferred) |
-| **Production Check** | `php artisan idevin:check-production` |
+| Client | Domain | Note |
+|:--|:--|:--|
+| **Mixy Mart** | [mixy-mart.com](https://mixy-mart.com) | Live production store |
+| **LinkGo** | — | Former client — legacy name in code only |
+
+> Each client gets: `APP_NAME` · domain · branding · app bundle — separate from **Moydeer** as the product.
 
 ---
 
-### 15 Laravel Modules
+### Modules — Enable as Needed
 
-| Module | Function |
-|:--|:--|
-| **Core** | Settings · CRUD · CommerceSettings · ThemeStore |
-| **Store** | Storefront · catalog · brands · banners |
-| **Orders** | Order lifecycle · 11 statuses · OrderStatusLog |
-| **Payments** | EasyKash (HMAC) · COD |
-| **Coupons · Offers** | Coupons · promotions |
-| **Blog · Seo** | Blog · sitemap · Schema |
-| **Pixels · Social** | Meta · TikTok · social links |
-| **GoogleMerchant** | XML feed |
-| **Chatbot** | Store assistant |
-| **Api** | REST `/api/v1` · Sanctum |
-| **Permissions** | Spatie RBAC |
-| **Platform** | Idevin SaaS layer |
+```env
+MODULE_STORE · MODULE_ORDERS · MODULE_PAYMENTS · MODULE_EASYKASH
+MODULE_SHIPPING · MODULE_COUPONS · MODULE_BUNDLES · MODULE_REVIEWS
+MODULE_BLOG · MODULE_SEO · MODULE_PIXELS · MODULE_GOOGLE_MERCHANT
+MODULE_CHATBOT · MODULE_API · MODULE_MOBILE · MODULE_WISHLIST
+MODULE_INVENTORY · MODULE_PROFIT · MODULE_COUNTRIES · MODULE_CURRENCIES
+MODULE_AUTH_GOOGLE · MODULE_AUTH_FACEBOOK · MODULE_PERMISSIONS · …
+```
+
+When a module is disabled → its routes and menus disappear **without errors**.
+
+<details open>
+<summary><strong>🛒 Store & Catalog</strong></summary>
+
+- Products · categories · brands · materials · attribute templates
+- Cart · wishlist · upsell · downsell · bundles
+- Reviews · quick add · import
+- Inventory · cost · profit tracking
+- Countries · currencies · multi-country (optional)
+
+</details>
+
+<details open>
+<summary><strong>💳 Orders & Payments</strong></summary>
+
+- 11 order statuses · OrderStatusLog
+- EasyKash (HMAC webhook) · Cash on Delivery (COD)
+- Governorate-based shipping (flat rate)
+- Coupons · abandoned checkout
+- Unpaid order expiry (TTL)
+
+</details>
+
+<details open>
+<summary><strong>📱 Mobile App</strong></summary>
+
+- Flutter — Android · iOS
+- Bootstrap from `/api/v1/app/bootstrap`
+- Google · Facebook Login · Sanctum
+- Remote config from `/admin/mobile` (logo · splash · intro · popups)
+- FCM push · deep link `mudiridigi://pay`
+- APK/AAB build per client with custom bundle ID
+
+</details>
+
+<details open>
+<summary><strong>📈 Growth & SEO</strong></summary>
+
+- SEO · sitemap · Schema
+- Pixels: Meta · TikTok · Snap · GA · GTM · GSC
+- Google Merchant XML feed
+- Chatbot (+ optional AI)
+- Social links · blog · analytics
+
+</details>
 
 ---
 
@@ -381,75 +397,29 @@ flowchart TB
 
 Ready-made niche themes — structure + CSS + surfaces:
 
-| Theme | Niche | Key |
-|:--|:--|:--|
-| **Nile** | Classic | `nile-atelier` |
-| **Bazaar** | Marketplace | `bazaar` |
-| **Pulse** | Image-forward | `pulse` |
-| **Aura** | Polish + drawer | `aura` |
-| **Loom** | Fashion | `loom` |
-| **Gleam** | Jewelry | `gleam` |
-| **Bloom** | Beauty | `bloom` |
-| **Pantry** | Grocery | `pantry` |
-| **Forge** | Electronics | `forge` |
+| Theme | Niche |
+|:--|:--|
+| **Nile** | Classic |
+| **Bazaar** | Marketplace |
+| **Pulse** | Image-forward |
+| **Aura** | Polish + drawer |
+| **Loom** | Fashion |
+| **Gleam** | Jewelry |
+| **Bloom** | Beauty |
+| **Pantry** | Grocery |
+| **Forge** | Electronics |
 
-> Colors from ThemeStore (`--brand`, `--accent`) · copy from `__('store.*')`
-
----
-
-### Key Features
-
-<details open>
-<summary><strong>🛒 For Merchants</strong></summary>
-
-- Bilingual store (Arabic RTL · English LTR)
-- Catalog · brands · categories · variants · reviews
-- Cart · wishlist · checkout · 11 order statuses
-- EasyKash + Cash on Delivery (COD)
-- Governorate-based shipping (flat rate)
-- SEO · sitemap · Google Merchant Feed
-- Pixels (Meta · TikTok) · Chatbot
-- Coupons · offers · blog
-
-</details>
-
-<details open>
-<summary><strong>⚙️ For Platform (Idevin)</strong></summary>
-
-- Create multiple stores · isolated DB
-- Packages · addon marketplace · entitlements
-- Subdomains + custom domains · Cloudflare DNS
-- Platform billing (EasyKash · Paymob)
-- Central API for remote stores
-- RBAC · audit log · maintenance · local_mode
-- `idevin:demo-local --fresh` (3 QA stores)
-
-</details>
-
-<details open>
-<summary><strong>🛡️ For Developers</strong></summary>
-
-- Modular: `MODULE_*=true/false` — disable without errors
-- i18n audit: `php artisan i18n:audit --fail-on-warning`
-- Hostinger-ready: `public_html/` document root
-- VPS deploy: Nginx · Supervisor · schedule
-- Integration docs: Bosta · EasyKash · PHP contracts
-- Tests: `IdevinPlatformTest` · EasyKash · Products
-
-</details>
+> Colors from ThemeStore · copy from `__('store.*')` — mandatory i18n audit
 
 ---
 
 ### Order Lifecycle
 
 ```
-Cart → Checkout → Payment (EasyKash / COD)
-     → OrderStatus (11 codes) → OrderStatusLog
-     → Shipping (governorate flat rate)
-     → Delivered
+Visitor → Cart → Checkout → EasyKash / COD
+        → OrderStatus (11) → governorate shipping → Delivered
+        → OrderStatusLog (system · admin · customer)
 ```
-
-> Bosta CourierAdapter integration — documented · next phase
 
 ---
 
@@ -457,26 +427,25 @@ Cart → Checkout → Payment (EasyKash / COD)
 
 | Metric | Value |
 |:--|--:|
-| Laravel Modules | 15 |
+| Laravel Modules (packages) | 15 |
+| Module flags (`.env`) | 40+ |
 | Theme Packs | 9+ |
-| Database migrations | 37+ |
 | Order statuses | 11 |
-| Supported locales | 2 (ar · en) |
-| Payment gateways | EasyKash · COD |
-| Platform tests | Idevin* suite |
+| Locales | ar · en |
+| Payment | EasyKash · COD |
+| Deploy targets | Hostinger · VPS |
 
 ---
 
 ### Technology Stack
 
-| Backend | Platform | DevOps |
+| Backend | Mobile | Ops |
 |:--|:--|:--|
-| Laravel 12 · PHP 8.3 | Idevin multi-tenant | Hostinger · VPS |
-| Livewire 4 | Cloudflare DNS API | `public_html/` deploy |
-| nwidart/laravel-modules | Separate DB/tenant | Nginx · Supervisor |
-| Sanctum · Spatie Permissions | EasyKash · Paymob | Queue workers |
-| EasyKash HMAC · COD | Central Platform API | `idevin:check-production` |
-| Vite · Tailwind | Addon marketplace | i18n CI audit |
+| Laravel 12 · PHP 8.3 | Flutter · Sanctum | Hostinger `public_html/` |
+| Livewire 4 | Google · Facebook Auth | VPS · Nginx · Supervisor |
+| nwidart/laravel-modules | FCM · App Links | Queue · Cron |
+| Spatie Permissions | Remote config | `i18n:audit` CI |
+| EasyKash HMAC · Vite | APK/AAB per client | Cloudflare |
 
 ---
 
@@ -508,7 +477,7 @@ Cart → Checkout → Payment (EasyKash / COD)
 <a href="https://mudiridigi.com">mudiridigi.com</a>
 </td>
 <td align="center">
-<strong>🛒 المتجر · Store</strong><br>
+<strong>🛒 المتجر الرقمي</strong><br>
 <a href="https://mudiridigi.shop">mudiridigi.shop</a>
 </td>
 <td align="center">
@@ -526,7 +495,7 @@ Cart → Checkout → Payment (EasyKash / COD)
 <a href="https://wa.me/201552114232">wa.me/201552114232</a>
 </td>
 <td align="center" colspan="2">
-<strong>🛒 مثال إنتاج · Live Store</strong><br>
+<strong>🛒 عميل — Mixy Mart</strong><br>
 <a href="https://mixy-mart.com">mixy-mart.com</a>
 </td>
 </tr>
@@ -536,7 +505,7 @@ Cart → Checkout → Payment (EasyKash / COD)
 
 [![Mudiri Digi Website](https://img.shields.io/badge/Website-mudiridigi.com-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mudiridigi.com)
 [![Mudiri Digi Store](https://img.shields.io/badge/Store-mudiridigi.shop-7C3AED?style=for-the-badge&logo=shopify&logoColor=white)](https://mudiridigi.shop)
-[![Mixy Mart](https://img.shields.io/badge/Live-mixy--mart.com-22C55E?style=for-the-badge&logo=shopify&logoColor=white)](https://mixy-mart.com)
+[![Mixy Mart Client](https://img.shields.io/badge/Client-mixy--mart.com-22C55E?style=for-the-badge&logo=shopify&logoColor=white)](https://mixy-mart.com)
 [![Email](https://img.shields.io/badge/Email-dev.nour.m@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.nour.m@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+20_155_211_4232-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201552114232)
 
@@ -544,7 +513,7 @@ Cart → Checkout → Payment (EasyKash / COD)
 
 ---
 
-**مويدير · LinkGo · Idevin** — SaaS E-Commerce · Multi-Tenant · Egypt
+**مويدير · Moydeer** — Online Store Product · Web · Admin · Mobile · Modules
 
 *© Mudiri Digi · All rights reserved*
 
