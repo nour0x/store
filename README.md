@@ -1,6 +1,6 @@
 <div align="center">
 
-# مويدير · Moydeer
+# مديري · Mudiri
 
 ### متجر إلكتروني متكامل — ويب · أدمن · تطبيق · موديولات  
 ### Full Online Store — Web · Admin · Mobile App · Modules
